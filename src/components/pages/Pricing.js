@@ -24,9 +24,9 @@ const Pricing = () => {
                   <h4>$8.99</h4>
                   <p>per month</p>
                   <ul className="pricing__container-features">
-                    <li>100 Transactions</li>
+                    <li>100 Records</li>
                     <li>2% CashBack</li>
-                    <li>$10,000 Limit</li>
+                    <li>No Consultations</li>
                   </ul>
                   <Button buttonSize="btn--wide" buttonColor="primary">
                     Choose Plan
@@ -42,9 +42,9 @@ const Pricing = () => {
                   <h4>$29.99</h4>
                   <p>per month</p>
                   <ul className="pricing__container-features">
-                    <li>1000 Transactions</li>
+                    <li>1000 Records</li>
                     <li>3.5% CashBack</li>
-                    <li>$100,000 Limit</li>
+                    <li>5 Consultations</li>
                   </ul>
                   <Button buttonSize="btn--wide" buttonColor="blue">
                     Choose Plan
@@ -62,7 +62,7 @@ const Pricing = () => {
                   <ul className="pricing__container-features">
                     <li>Unlimited</li>
                     <li>5% CashBack</li>
-                    <li>Unlimited</li>
+                    <li>10 Consultations</li>
                   </ul>
                   <Button buttonSize="btn--wide" buttonColor="primary">
                     Choose Plan
